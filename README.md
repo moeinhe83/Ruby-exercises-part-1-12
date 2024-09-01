@@ -11,3 +11,5 @@ Example ===> Write A Program That Receives Two Three-member Arrays And Converts 
 Description Of Files:
 
 For Run ===> ruby practice_12.rb
+
+# Finish
